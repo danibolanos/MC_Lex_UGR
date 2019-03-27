@@ -1,0 +1,11 @@
+Alumno: Daniel Bolaños Martínez
+Trabajo: Práctica Individual de Lex
+Asignatura: Modelos de Computación (Prácticas Grupo 1)
+
+Compilar programa:
+
+Existe un makefile en la carpeta Programa que se encarga de ello.
+
+Para leer el archivo:
+
+> ./loteria_exe loteria.txt
