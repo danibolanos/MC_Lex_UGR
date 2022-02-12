@@ -1,4 +1,4 @@
 # Prácticas Modelos de Computación (MC)
 Repositorio para la Práctica de Lex de la asignatura de Modelos de Computación de 3ºDGIIM.
 
-Aplicación que extrae datos acerca de boletos premiados de lotería y hace estadísticas con la información obtenida.
+Desarrollo de una aplicación para extraer datos sobre boletos de lotería y hacer estadísticas con la información obtenida.
